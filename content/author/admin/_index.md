@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Student at Computer Vision and Machine Learning"
+role = "PhD Student in Computer Vision and Machine Learning"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -42,7 +42,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "BTech in Computer Science and Engineering"
   institution = "Indian Institute of Technology Kanpur"
-  year = 2008
+  year = 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
